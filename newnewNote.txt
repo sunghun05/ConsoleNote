@@ -1,5 +1,0 @@
-1
-2hello world
-3newnewNote created
-4printf("hello world\n");
-5
